@@ -1,6 +1,2 @@
-security.ubuntu.com
-archive.ubuntu.com
-ftp.ubuntu.com
-security.debian.org
-ftp.debian.org
-deb.debian.org
+*.debian.org
+*.ubuntu.com
