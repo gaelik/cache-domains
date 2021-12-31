@@ -126,6 +126,17 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+		       "name": "ubuntu-debian",
+			"description": "ubuntu and debian patches",
+			"domain_files": ["ubuntu.txt"]
+                },
+		{	
+			"name": "faforever",
+			"description": "faforever",
+			"domain_files": ["faforever.txt"]
 		}
+
 	]
 }
