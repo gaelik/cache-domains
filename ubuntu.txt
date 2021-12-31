@@ -1,0 +1,3 @@
+security.ubuntu.com
+archive.ubuntu.com
+ftp.ubuntu.com
