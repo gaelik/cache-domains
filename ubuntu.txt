@@ -1,2 +1,2 @@
-*.debian.org
-*.ubuntu.com
+#*.debian.org
+#*.ubuntu.com
